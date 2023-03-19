@@ -48,10 +48,10 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ⭕ Modern Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/modern.css");
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/modern.css"); /**/
 
 /* ⭕ Blurple Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/blurple.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/blurple.css");
 
 /* ⭕ Revamp Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/revamp.css"); /**/
