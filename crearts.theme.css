@@ -73,7 +73,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/sapphire.css"); /**/
 
 /* ⭕ Amethyst Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/amethyst.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/amethyst.css");
 
 /* ⭕ Crimson Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/crimson.css"); /**/
@@ -133,7 +133,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/guilded.css"); /**/
 
 /* ⭕ Revolt Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/revolt.css");
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/revolt.css"); /**/
 
 /* ⭕ Dracula Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/public/dracula.css"); /**/
