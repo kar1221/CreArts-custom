@@ -54,14 +54,14 @@
 /* @import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/blurple.css"); /**/
 
 /* ⭕ Revamp Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/revamp.css");
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/discord/revamp.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.1 Palette              ║ CreArts                         ║ */
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Community Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/community.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/community.css");
 
 /* ⭕ Ruby Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/ruby.css"); /**/
