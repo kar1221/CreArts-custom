@@ -97,7 +97,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/charcoal.css"); /**/
 
 /* ⭕ Milkshake Edition */
-@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/milkshake.css");
+/* @import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/milkshake.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.1 Palette              ║ Community                       ║ */
@@ -110,7 +110,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/community/lavender.css"); /**/
 
 /* ⭕ Goon Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/community/goon.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/community/goon.css");
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.1 Palette              ║ Games                           ║ */
