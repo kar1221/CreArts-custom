@@ -335,10 +335,10 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ⭕ Adds Hover Animation */
-/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/hover.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/hover.css"); /**/
 
 /* ⭕ Adds Chat-Input Animation */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/chat-input.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/chat-input.css"); /**/
 
 /* ⭕ Adds Sidebar Animation */
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/channels-sidebar.css"); /**/
